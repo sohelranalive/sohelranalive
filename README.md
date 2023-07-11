@@ -25,7 +25,7 @@
 </div>
 
 <div>
-    <h1 align="center">Hi 👋, I'm Md. Sohel Rana</h1>
+    <h1 align="center">Hey 👋, there</h1>
     <!-- <p>A passionate web developer from Bangladesh</p> -->
     <!-- <h3 align="center">A passionate web developer from Bangladesh</h3> -->
 </div>
