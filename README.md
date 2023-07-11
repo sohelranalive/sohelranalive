@@ -22,8 +22,10 @@
     <img src="https://komarev.com/ghpvc/?username=sohelranalive&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div>
 <h1 align="center">Hi 👋, I'm Md. Sohel Rana</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
+</div>
 
 <hr/>
 
