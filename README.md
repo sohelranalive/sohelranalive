@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
 </div>
-<img src="https://komarev.com/ghpvc/?username=sohelranalive&style=flat-square&color=blue" alt="" align="center"/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=sohelranalive&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Md. Sohel Rana</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
