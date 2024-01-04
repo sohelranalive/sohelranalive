@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src='images/coder.gif' width="128" height="99"/>
+  <img src='images/coder.gif' width="170" height="131"/>
 </div>
 
 <div id="badges" align="center">
