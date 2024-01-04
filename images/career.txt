@@ -1,0 +1,9 @@
+const details = {
+        expertise: ['React.js', 'JavaScript ES6', 'JavaScript', 'HTML', ' CSS', 'Bootstrap', 'Tailwind'],
+        comfortable: ['Node & Express.js', 'REST API', 'DevTools & Debugging', 'MongoDB', 'Firebase'],
+        familiar: ['Material UI', 'SSL Commerz', 'cPanel'],
+        Tools: ['Windows', 'VS Code', 'Netlify', 'Vercel', 'Figma', 'Postman']
+    }
+
+
+    console.log(details);
