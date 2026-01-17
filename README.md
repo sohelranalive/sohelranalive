@@ -62,17 +62,6 @@ I am a **Master’s student in Information Technology** with a strong passion fo
 
 ---
 
-### 🔥 My GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sohelranalive&hide_border=true"
-    height="160"
-    alt="Streak Stats"
-  />
-</p>
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sohelranalive/
 - Email: sohel.cse37@gmail.com
