@@ -9,7 +9,7 @@
 ---
 
 # Hi, I'm Sohel Rana 👋
-### Aspiring Software Developer | Full-Stack Web Developer
+### Full-Stack Software Developer
 
 ---
 
